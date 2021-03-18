@@ -9986,9 +9986,9 @@ h3 {
 body {
   padding-top: 3.375rem;
          color: #fff;
-         <P> class="lead mb-5">目前為應屆畢業生，正在尋找以設計為核心的職涯發展機會，擁有海報設計，文案排版、網頁、名片設計等能力。
-我是一個想像力豐富的人，喜歡把想法 圖像化或是結合不同元素設計，平常也喜歡傾聽別人的生活故事，並結合在自己的設計上，展先多元的作品。</P>
-             text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+         <p class="lead mb-5">目前為應屆畢業生，正在尋找以設計為核心的職涯發展機會，擁有海報設計，文案排版、網頁、名片設計等能力。<br>我是一個想像力豐富的人，喜歡把想法
+                    圖像化或是結合不同元素設計，平常也喜歡傾聽別人的生活故事，並結合在自己的設計上，展先多元的作品。</p>
+         text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
 }
 
 @media (min-width: 992px) {
