@@ -6080,7 +6080,7 @@ a.close.disabled {
 
 .bg-primary {
   background-image:url(star.gif);
-  background-size: 1000px;
+  background-size: 1000px 1000px;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
