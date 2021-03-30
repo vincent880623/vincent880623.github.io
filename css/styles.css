@@ -6079,7 +6079,8 @@ a.close.disabled {
 }
 
 .bg-primary {
-  background-color: rgb(0 0 0 / 35%)!important;
+  background-image:url(star.gif);
+  background-size: 1000px;
 }
 
 a.bg-primary:hover, a.bg-primary:focus,
