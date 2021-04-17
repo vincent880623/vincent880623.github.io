@@ -10372,7 +10372,7 @@ div.description{
 
 .timeline::after {
   content: '';
-  background-color:#7eafbb;
+  background-color:#59b5cc;
   position: absolute;
   width: 6px;
   top: 0;
