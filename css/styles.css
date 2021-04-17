@@ -10140,11 +10140,6 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 
-.bg-primary {
-	background-color: #c7a54d!important;
-	background-image: url("checkered-light-emboss.png");
-}
-
 .text-primary {
 	color: #c7a54d!important;
 }
