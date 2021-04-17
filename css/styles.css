@@ -10140,8 +10140,6 @@ h1 .text-primary {
 	line-height: 3rem;
 }
 
-.text-primary {
-	color: #c7a54d!important;
 }
 .f-text-primary {
 	color: #8b4000!important;
@@ -10149,10 +10147,6 @@ h1 .text-primary {
 
 #sideNav .navbar-nav .nav-item .nav-link {
 	text-transform: none;
-}
-
-a{
-	color:#c7a54d;
 }
 
 a:active, a:focus, a:hover {
