@@ -10372,7 +10372,7 @@ div.description{
 
 .timeline::after {
   content: '';
-  background-color:#8b4000;
+  background-color:#7eafbb;
   position: absolute;
   width: 6px;
   top: 0;
@@ -10396,7 +10396,7 @@ div.description{
   height: 25px;
   right: -12px;
   background-color: white;
-  border: 2px solid #8b4000;
+  border: 2px solid #7eafbb;
   top: 15px;
   border-radius: 50%;
   z-index: 1;
